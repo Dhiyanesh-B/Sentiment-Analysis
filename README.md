@@ -208,24 +208,6 @@ This allows:
 - scikit-learn
 - Matplotlib
 
----
-
-## 📁 Project Structure
-
-├── word_to_vector.py
-├── lstm.py
-├── app.py
-├── train.txt
-├── train.xlsx
-├── test.xlsx
-├── ecommerce_word_to_id.npy
-├── ecommerce_id_to_word.npy
-├── ecommerce_word2vec.txt
-├── ecommerce_word2vec_embeddings.npy
-├── lstm_model_full.pkl
-└── README.md
-
----
 
 ## 🎯 Learning Outcomes
 
